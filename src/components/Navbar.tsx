@@ -11,14 +11,14 @@ const Navbar = () => {
                 Menu
             </Link>
 
-            <Link href={"blog"}> 
+            <Link href={"blog"}>
                 Blog 
             </Link>
 
             <Link href={"stuff"}> 
                 Stuff 1 
             </Link>
-            
+
             <Link href={"stuff2"}> 
                 Struff 2 
             </Link>
